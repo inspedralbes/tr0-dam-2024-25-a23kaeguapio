@@ -1,0 +1,43 @@
+{
+  "partidas": {
+    "userid": "4f976172-3f7a-46f5-99d2-de04d4480fee",
+    "preguntas": [
+      {
+        "pregunta": "Quina marca, coneguda pel seu refresc i el seu logotip vermell, és reconeguda mundialment?",
+        "tiempoRespuesta": 3
+      },
+      {
+        "pregunta": "Quina marca de cotxes és coneguda pel seu logotip amb un cercle dividit en tres parts i és famosa per la seva qualitat?",
+        "tiempoRespuesta": 6
+      },
+      {
+        "pregunta": "Quina cadena de restaurants ràpids és coneguda pel seu logotip de color vermell i groc amb una 'M' i la seva famosa hamburguesa?",
+        "tiempoRespuesta": 7
+      },
+      {
+        "pregunta": "Quina marca de cafè és famosa pel seu logotip de sirena i les seves begudes de cafè de qualitat?",
+        "tiempoRespuesta": 9
+      },
+      {
+        "pregunta": "Quina empresa de comerç electrònic, coneguda pel seu logotip amb una fletxa de color taronja, és considerada una de les més grans del món?",
+        "tiempoRespuesta": 10
+      },
+      {
+        "pregunta": "Quina marca de vehicles és coneguda pel seu logotip amb tres cercles superposats i la seva reputació de fiabilitat?",
+        "tiempoRespuesta": 11
+      },
+      {
+        "pregunta": "Quina és la marca d'ice cream més premium que ofereix sabors exquisits i luxe?",
+        "tiempoRespuesta": 12
+      },
+      {
+        "pregunta": "Quina marca esportiva és coneguda pel seu logotip en forma de swoosh i per les seves sabates?",
+        "tiempoRespuesta": 13
+      },
+      {
+        "pregunta": "Quina marca esportiva és coneguda pel seu logotip en forma de swoosh i per les seves sabates?",
+        "tiempoRespuesta": 13
+      }
+    ]
+  }
+}
