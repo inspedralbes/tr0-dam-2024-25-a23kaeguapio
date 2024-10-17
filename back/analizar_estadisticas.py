@@ -4,10 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from IPython.display import display
 
-# Ruta a la carpeta de estadísticas
 stats_dir = 'stats'
-
-# Función para leer estadísticas desde los archivos JSON
 def leer_estadisticas():
     all_stats = []
 
@@ -25,11 +22,9 @@ def leer_estadisticas():
 
     return all_stats
 
-# Función para analizar las estadísticas y mostrar gráficos
 def analizar_estadisticas(stats):
     data = []
 
-    # Extraer los tiempos de respuesta de cada pregunta
     for partida in stats:
         userid = partida["partidas"]["userid"]
         for pregunta in partida["partidas"]["preguntas"]:
@@ -37,13 +32,10 @@ def analizar_estadisticas(stats):
             tiempo_respuesta = pregunta["tiempoRespuesta"]
             data.append({"userid": userid, "pregunta": pregunta_text, "tiempoRespuesta": tiempo_respuesta})
 
-    # Crear un DataFrame a partir de los datos
     df = pd.DataFrame(data)
 
-    # Gráfico de líneas para el tiempo de respuesta
     plt.figure(figsize=(12, 6))
 
-    # Agrupar por pregunta y calcular la media de tiempo de respuesta
     tiempo_medio = df.groupby("pregunta")["tiempoRespuesta"].mean().reset_index()
 
     plt.plot(tiempo_medio["pregunta"], tiempo_medio["tiempoRespuesta"], marker='o', label='Tiempo Medio de Respuesta')
