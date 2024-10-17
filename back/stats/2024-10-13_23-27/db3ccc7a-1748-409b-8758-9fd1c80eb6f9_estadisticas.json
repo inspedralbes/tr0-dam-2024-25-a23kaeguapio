@@ -1,0 +1,23 @@
+{
+  "partidas": {
+    "userid": "db3ccc7a-1748-409b-8758-9fd1c80eb6f9",
+    "preguntas": [
+      {
+        "pregunta": "Quina marca, coneguda pel seu refresc i el seu logotip vermell, és reconeguda mundialment?",
+        "tiempoRespuesta": 5
+      },
+      {
+        "pregunta": "Quina marca de cotxes és coneguda pel seu logotip amb un cercle dividit en tres parts i és famosa per la seva qualitat?",
+        "tiempoRespuesta": 7
+      },
+      {
+        "pregunta": "Quina cadena de restaurants ràpids és coneguda pel seu logotip de color vermell i groc amb una 'M' i la seva famosa hamburguesa?",
+        "tiempoRespuesta": 8
+      },
+      {
+        "pregunta": "Quina marca de cafè és famosa pel seu logotip de sirena i les seves begudes de cafè de qualitat?",
+        "tiempoRespuesta": 10
+      }
+    ]
+  }
+}

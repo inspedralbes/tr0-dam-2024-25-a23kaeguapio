@@ -1,0 +1,174 @@
+{
+  "preguntes": [
+    {
+      "pregunta": "Quina marca, coneguda pel seu refresc i el seu logotip vermell, és reconeguda mundialment?",
+      "resposta_correcta": {
+        "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNcgxA5IAsbsHZrc-dj-gUahZw3btPs3xOQ&s"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLhxPWZNCkVfvZKakfWETkl4mIZOp9BG0-w&s"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnfkYjBVYO2fcM0n7MTy2UU-v7U0QhvwTM-A&s"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT87SaLmFU-GO5mwqdWFiLis-cN5rW_zG8_rA&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca de cotxes és coneguda pel seu logotip amb un cercle dividit en tres parts i és famosa per la seva qualitat?",
+      "resposta_correcta": {
+        "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREiiOYVOEXtTi_YnHsNSv3DW9UbQISs8USrA&s"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/4/42/Lexus-cars-logo-emblem.jpg"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJECOeRU9M9L11Vtwk6A_Ht9cLEsBLqvRBVw&s"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6nLi8Fny18YUY8Xue6krSKnrIVWpE_vojYw&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina cadena de restaurants ràpids és coneguda pel seu logotip de color vermell i groc amb una 'M' i la seva famosa hamburguesa?",
+      "resposta_correcta": {
+        "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lUwB3DDffooUy0kCmR9kQqcACw7uDVGsKQ&s"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Burger_King_logo_%281999%29.svg/2024px-Burger_King_logo_%281999%29.svg.png"
+        },
+        {
+          "imatge": "https://www.marketingdirecto.com/wp-content/uploads/2013/07/wen.jpg"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqujl75NREm_t2yu3RYDrP74QNV2tToqqRMg&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca de cafè és famosa pel seu logotip de sirena i les seves begudes de cafè de qualitat?",
+      "resposta_correcta": {
+        "imatge": "https://media.revistagq.com/photos/5d5d383031110c000879872d/1:1/w_1080,h_1080,c_limit/logo-starbucks.jpg"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNnmjjHScHm2DCh1PpKe2xomJqlvSMv8ZRg&s"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9uDqX4g7xF7o_cHFpKfTdgOcneK0sDJcpOg&s"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiv9-AemlB9De6eRkbPTr2_Gj4Ij1DmOb0VA&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina empresa de comerç electrònic, coneguda pel seu logotip amb una fletxa de color taronja, és considerada una de les més grans del món?",
+      "resposta_correcta": {
+        "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMTsr0-y_t3TSDPqhujuAoha6FArg25-an8g&s"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkMCd0Uw-SPT8HvkU1lqUooS4moby9a7QLJg&s"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ywvqewt6GWkWTeVLKtkokkwarxFyoANlgA&s"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK5l3_eMi81uqWDuOffjRD-KvHYB46dtPMHg&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca de vehicles és coneguda pel seu logotip amb tres cercles superposats i la seva reputació de fiabilitat?",
+      "resposta_correcta": {
+        "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvmm9_Zs_-C32Fc2AQ5EsPgdZfNlatKxbh3g&s"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4Y65gOaq1L5jfWReP8CVq7I6VmFDnAtcvA&s"
+        },
+        {
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/2560px-Ford_logo_flat.svg.png"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0hRNSWEH62QsF4A_rEednfBdd4JZhDc1zw&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina és la marca d'ice cream més premium que ofereix sabors exquisits i luxe?",
+      "resposta_correcta": {
+        "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEfmSj7oi2zEhNFvonxby-rj8ufKWMr2lOOg&s"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://static.carrefour.es/hd_510x_/img_pim_food/456059_00_1.jpg"
+        },
+        {
+          "imatge": "https://assets.unileversolutions.com/v1/107788547.png"
+        },
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTycFMMHcLBHBjci-A5neIavG-xZlDnih4NYw&s"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca esportiva és coneguda pel seu logotip en forma de swoosh i per les seves sabates?",
+      "resposta_correcta": {
+        "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBKgsCqfDNVkO6aC-qlnSVUCUkxErNsV6Tw&s"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdqYcQ5OJ_3LS-0AaZREA6vNZ6RYVZBYu05Q&s"
+        },
+        {
+          "imatge": "https://static.vecteezy.com/system/resources/previews/021/963/704/original/puma-logo-illustration-free-vector.jpg"
+        },
+        {
+          "imatge": "https://static.vecteezy.com/system/resources/previews/021/963/705/original/reebok-logo-illustration-free-vector.jpg"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca de begudes energètiques és coneguda pel seu taurina i és habitual en competicions d'esports extrems?",
+      "resposta_correcta": {
+        "imatge": "https://www.dia.es/product_images/16056/16056_ISO_0_ES.jpg"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://pamplona.e-leclerc.es/documents/10180/10815/5060337501316_G.jpg"
+        },
+        {
+          "imatge": "https://i.ebayimg.com/images/g/ZfAAAOSweyxhx-gH/s-l400.jpg"
+        },
+        {
+          "imatge": "https://distribucionmayorista.online/5568-large_default/rockstar-guava-500ml.jpg"
+        }
+      ]
+    },
+    {
+      "pregunta": "Quina marca d'electrodomèstics és reconeguda per la seva qualitat i tecnologia innovadora, especialment en aparells de cuina?",
+      "resposta_correcta": {
+        "imatge": "https://assets.bosch.com/media/global/bosch_group/our_figures/brands/bosch-brand-bosch_res_1280x720.webp"
+      },
+      "respostes_incorrectes": [
+        {
+          "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Samsung_Logo.svg/2560px-Samsung_Logo.svg.png"
+        },
+        {
+          "imatge": "https://s3-eu-west-1.amazonaws.com/tpd/logos/485133e4000064000502ac81/0x0.png"
+        },
+        {
+          "imatge": "https://play-lh.googleusercontent.com/xyjHBVaZ7sY8n4MFUIEHKXfjpwaVkXWDVlydxaOI0luXnIXWW3yDwbOROEE2H7VuDqY"
+        }
+      ]
+    }
+  ]
+}
